@@ -1,1 +1,1 @@
-canActivate=true;
+canActivate=true
